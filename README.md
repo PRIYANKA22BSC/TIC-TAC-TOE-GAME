@@ -12,9 +12,9 @@ This version of Tic-Tac-Toe is built using HTML for structure, CSS for styling, 
 - Winner detection: The game checks for winners or a draw after every move.
 - Reset button: Players can reset the game and start over.
 ## Technologies Used
-1 HTML5: For structuring the game grid and UI elements.
-2 CSS3: For styling the game board, text, and layout.
-3 JavaScript (ES6+): For implementing game logic and interactivity.
+1. HTML5: For structuring the game grid and UI elements.
+2. CSS3: For styling the game board, text, and layout.
+3. JavaScript (ES6+): For implementing game logic and interactivity.
 ### How to Play
 1 Open the game in your browser (you can host it locally or deploy it online).
 2 The game starts with Player 1 (X) making the first move.
