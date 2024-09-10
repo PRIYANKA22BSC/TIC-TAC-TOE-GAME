@@ -1,5 +1,6 @@
 
 # Tic-Tac-Toe Game
+Link: https://priyanka22bsc.github.io/TIC-TAC-TOE-GAME/
 Welcome to the Tic-Tac-Toe game! This project is a simple, browser-based implementation of the classic two-player game, built using HTML, CSS, and JavaScript.
 ## Overview
 Tic-Tac-Toe is a game where two players take turns marking spaces on a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
