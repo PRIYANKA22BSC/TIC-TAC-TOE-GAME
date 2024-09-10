@@ -20,7 +20,7 @@ h1 {
 }
 
 .show {
-    background-image: url("E:/WebDev/.vscode/jsProblemPractice/Tic Tac Toe/bunny.gif");
+    background-image: url("bunny.gif");
     background-repeat: no-repeat;
     display:block;
 }
